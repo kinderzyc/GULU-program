@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kinderzyc/GULU-program/issues"
   },
-  "homepage": "https://github.com/kinderzyc/GULU-program#readme"
+  "homepage": "https://github.com/kinderzyc/GULU-program#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
