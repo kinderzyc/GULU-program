@@ -8,6 +8,7 @@ siderbarDepth:2
 
 使用方法
 
-
+<ClientOnly>
 <button-demos></button-demos>
+</ClientOnly>
 <!-- <ClientOnly></ClientOnly> -->
