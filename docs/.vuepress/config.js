@@ -1,5 +1,5 @@
 module.exports = {
-    base:'/GULU-UI/',
+    base:'/GULU-program/',
     title: '轱辘UI',
     description: '一个好用的UI框架',
     themeConfig: {
