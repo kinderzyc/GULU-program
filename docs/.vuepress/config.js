@@ -5,8 +5,8 @@ module.exports = {
     themeConfig: {
         nav: [
           {text: '主页', link: '/'},
-          {text: '文档', link: '/guide/'},
-          {text: '交流', link: 'https://google.com'},
+          {text: '文档', link: 'https://www.vuepress.cn/guide/getting-started.html'},
+          {text: '我的GitHub', link: 'https://github.com/kinderzyc?tab=repositories'},
         ],
         sidebar: [
           {
